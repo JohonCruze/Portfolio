@@ -58,11 +58,17 @@ h2 {
   height: 65%;
   background-color: white;
 }
+.single-experience h3 {
+  color: orange;
+}
 
 .experience-area {
   background-image: url("assets/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
+}
+.experience-area h2 {
+  text-align: center;
 }
 
 #full-stack {
